@@ -7,6 +7,6 @@ author: Varya
 
 First post
 
-![](./tutkimusjakehitys.jpg)
+![First post image](./tutkimusjakehitys.jpg)
 
 You should be exited now.
